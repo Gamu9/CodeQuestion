@@ -1,0 +1,15 @@
+C:\down\New folder\CodeQuestion\bin\Debug\netstandard2.0\CodeQuestion.deps.json
+C:\down\New folder\CodeQuestion\bin\Debug\netstandard2.0\CodeQuestion.dll
+C:\down\New folder\CodeQuestion\bin\Debug\netstandard2.0\CodeQuestion.pdb
+C:\down\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.csprojAssemblyReference.cache
+C:\down\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.AssemblyInfoInputs.cache
+C:\down\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.AssemblyInfo.cs
+C:\down\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.dll
+C:\down\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.pdb
+C:\SOURCE\New folder\CodeQuestion\bin\Debug\netstandard2.0\CodeQuestion.deps.json
+C:\SOURCE\New folder\CodeQuestion\bin\Debug\netstandard2.0\CodeQuestion.dll
+C:\SOURCE\New folder\CodeQuestion\bin\Debug\netstandard2.0\CodeQuestion.pdb
+C:\SOURCE\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.AssemblyInfoInputs.cache
+C:\SOURCE\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.AssemblyInfo.cs
+C:\SOURCE\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.dll
+C:\SOURCE\New folder\CodeQuestion\obj\Debug\netstandard2.0\CodeQuestion.pdb
